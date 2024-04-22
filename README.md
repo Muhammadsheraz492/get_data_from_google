@@ -27,7 +27,7 @@ Before you run this spider, ensure you have the following installed:
 2. Navigate to the project directory:
 
     ```bash
-    cd your-repo
+    cd google_doc
     ```
 
 3. Install the required dependencies:
