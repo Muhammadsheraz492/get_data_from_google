@@ -21,7 +21,7 @@ Before you run this spider, ensure you have the following installed:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/Muhammadsheraz492/get_data_from_google.git
     ```
 
 2. Navigate to the project directory:
